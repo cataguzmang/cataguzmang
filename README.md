@@ -1,8 +1,8 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Catalina**, an **AI Systems Engineer** — I automate the boring stuff and build systems that work. (Eventually.)
+I'm **Catalina**, an **AI Systems Engineer** — I automate the *boring stuff* and build systems that work. *(Eventually.)*
 
-I lead all tech initiatives across multiple industries—designing data-driven systems that integrate AI, APIs, and automation to solve real operational problems. I'm obsessed with finding new ways to leverage AI *properly*, learning continuously, and turning "we could automate that" into "we did automate that."
+I lead all tech initiatives across multiple industries—designing data-driven systems that integrate AI, APIs, and automation to solve real operational problems. I'm obsessed with finding new ways to leverage AI *properly*, learning continuously, and turning *"we could automate that"* into *"we did automate that."*
 
 #### ⚡ How I work
 - **Build fast, iterate faster** — Explore ideas in parallel, prioritize ruthlessly, validate with data
@@ -12,7 +12,7 @@ I lead all tech initiatives across multiple industries—designing data-driven s
 
 #### 🛠️ Stack
 **Core:** Python, SQL  
-**Workflows & Automation:** Streamlit, LangChain, Google APIs (Sheets, Gmail), Microsoft Graph API  
+**Workflows & Automation:** Streamlit, LangChain, Google APIs, Microsoft Graph API  
 **Data & Analytics:** Power BI, Looker Studio, Tableau, Advanced Excel  
 
 #### 🚀 What's next
