@@ -1,23 +1,15 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Catalina**, an **AI Systems Engineer** — I automate the *boring stuff* and build systems that work. *(Eventually.)*
-
-I lead all tech initiatives across multiple industries—designing data-driven systems that integrate AI, APIs, and automation to solve real operational problems. I'm obsessed with finding new ways to leverage AI *properly*, learning continuously, and turning *"we could automate that"* into *"we did automate that."*
+I'm **Catalina** — a **Software Engineer** who builds software for *people who are tired of doing things manually*. 
 
 #### ⚡ How I work
-- **Build fast, iterate faster** — Explore ideas in parallel, prioritize ruthlessly, validate with data
-- **Autonomous builder** — I use AI as a learning and debugging tool, then ship
-- **Systems-first thinking** — Architecture, workflows, and integrations matter more than isolated code
-- **Automate everything mentality** — If it's repetitive, it's getting automated
+- **Build fast, iterate faster** · explore in parallel, validate with data
+- **Autonomous builder** · AI is my co-pilot, not my autopilot
+- **Systems-first thinking** · workflows and integrations > isolated code
+- **Automate everything** · if it's repetitive, it's getting automated
 
 #### 🛠️ Stack
-**Core:** Python, SQL  
-**Workflows & Automation:** Streamlit, LangChain, Google APIs, Microsoft Graph API  
-**Data & Analytics:** Power BI, Looker Studio, Tableau, Advanced Excel  
-
-#### 🚀 What's next
-Currently building personal projects in AI systems and automation. Always learning, always automating.
+Python · SQL · OpenAI · LangChain · Apollo · Hunter · Google & Microsoft Graph APIs · Power BI · Looker Studio · seaborn · matplotlib
 
 #### 🤝 Let's connect
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />](https://github.com/cataguzmang)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/catalinaguzmang)
+[Portfolio](https://cataguzmang.github.io) · [LinkedIn](https://linkedin.com/in/catalinaguzmang) · [Email](mailto:caguzmang@outlook.com)
