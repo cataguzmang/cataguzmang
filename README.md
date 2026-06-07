@@ -4,7 +4,7 @@ I'm **Catalina** — a **Software Engineer** who builds software for *people who
 
 #### ⚡ How I work
 - **Build fast, iterate faster** · explore in parallel, validate with data
-- **Autonomous builder** · AI is my co-pilot, not my autopilot
+- **Fast learner** · new stack, new domain — I get productive quickly
 - **Systems-first thinking** · workflows and integrations > isolated code
 - **Automate everything** · if it's repetitive, it's getting automated
 
