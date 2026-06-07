@@ -9,7 +9,7 @@ I'm **Catalina** — a **Software Engineer** who builds software for *people who
 - **Automate everything** · if it's repetitive, it's getting automated
 
 #### 🛠️ Stack
-Python · SQL · OpenAI · LangChain · Apollo · Hunter · Google & Microsoft Graph APIs · Power BI · Looker Studio · seaborn · matplotlib
+Python · SQL · OpenAI · LangChain · Apollo · Hunter · Google APIs · Power BI · Looker Studio · Tableau · seaborn · matplotlib · Advanced Excel
 
 #### 🤝 Let's connect
 [Portfolio](https://cataguzmang.github.io) · [LinkedIn](https://linkedin.com/in/catalinaguzmang) · [Email](mailto:caguzmang@outlook.com)
